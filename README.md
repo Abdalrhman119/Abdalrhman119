@@ -1,37 +1,32 @@
 <div align="center">
-  <h1>Hi there, I'm Abdalrhman Waleed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=5BC0EB&center=true&vCenter=true&width=435&lines=.NET+Backend+Developer;Software+Engineer;Problem+Solver">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5BC0EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdalrhman+Waleed;.NET+Backend+Developer;Software+Engineer;From+Cairo%2C+Egypt" alt="Header Typing Animation">
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdalrhman-waleed-8b08b52a5"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abdalrhman119"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:abdalrhmanwa159@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/gmail.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://wa.me/201013250874"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/whatsapp.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/abdalrhman-waleed-8b08b52a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Abdalrhman119" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:abdalrhmanwa159@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/201013250874" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
 
 <div align="center">
-  <h3>💻 .NET Backend Developer | 🛠 Software Engineer | 🌍 Cairo, Egypt</h3>
+  <img src="https://komarev.com/ghpvc/?username=Abdalrhman119&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Abdalrhman119?label=GitHub%20Followers&style=flat" alt="GitHub Followers">
 </div>
 
-<p align="center">
-  <a href="https://github.com/Abdalrhman119?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdalrhman119?color=09f&labelColor=black&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev/visits/Abdalrhman119/Abdalrhman119">
-    <img alt="Visitors" src="https://badges.pufler.dev/visits/Abdalrhman119/Abdalrhman119?color=09f&labelColor=black&style=for-the-badge">
-  </a>
-</p>
+---
 
-<h5 align="center">
-  <i>⚡️ Building robust backend systems with .NET and clean architecture ⚡️</i>
-</h5>
+<img align="right" height="280" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
 
-<br>
-
-<img align="right" height="270px" width="450px" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<h3> About Me </h3>
+### 🧑‍💻 About Me
 
 <ul>
   <li>🔭 Currently working on <strong>ASP.NET Web APIs</strong> and <strong>Microservices</strong></li>
@@ -59,23 +54,11 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/sqlserver.svg" alt="sqlserver" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
 </p>
 
-<h3 id="--what-i-do">Featured Projects</h3>
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdalrhman119&repo=E-Commerce-Project&theme=radical">
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdalrhman119&repo=Talabat-like-Delivery-App&theme=radical">
-  </a>
-</p>
 
 <h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
 
